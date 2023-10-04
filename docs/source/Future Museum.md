@@ -28,4 +28,4 @@ The players are expected to go through the following steps in this game:
 - Each team summarizes the areas that need improvement or attention for their technology project based on other teams’ ratings and feedbacks, and what they learned from this game\.
 - All participants discuss together the inspiration and influence of this game on their technology development, and their views and suggestions on responsible innovation\.
 
-![avatar](./pic/standingTogether.jpg)
+![avatar](./pics/standingTogether.jpg)
