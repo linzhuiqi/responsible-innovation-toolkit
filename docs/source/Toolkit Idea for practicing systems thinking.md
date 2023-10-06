@@ -26,20 +26,20 @@ Your job as the engineers are to work together to make the best possible use of 
 - There is a __5\-performance point__ for each engineer that they need to maintain for the project to be considered __successful__\. At the end of the players’ discussion, the total performance points of all engineers should be __at least 15 out of 20__\.
 - There is __a total of maximum 10 environment\-impact points__ that the players/engineers can accumulate\. At the end of the players’ discussion, the __total of their environment impact points cannot be more than 10 points__\.
 
-### Team Roles
--   __*Software and database development team*__:
+### Player Roles
+-   __*Software and database development engineer*__:
 	- Performance point: __5__
 	- Diamonds: up to the players who will discuss with one another
 	- Receive __2 cards__:
 		- Card 1: Very large database server and high\-end computing resources for storing their program/code\.
 			- __Diamonds \(\-5\)__
-			- __Electronics team performance point \(\-1\) __
+			- __Electronics team performance point \(\-1\)__
 			- __Materials team performance point \(\-1\)__\.
 			- __Environment impact points \(\+3\)__
 		- Card 2: Limited database server and ‘just enough’ computing resources for their program/code\. 
 			- __Diamonds \(\-3\)__
 			- __Environment impact points \(\+2\)__
-- __*Mechanical engineering and manufacture*__:
+- __*Mechanical and manufacture engineer*__:
 	- Performance point: __5__
 	- Diamonds: up to the players who will discuss with one another
 	- Receive __2 cards__:
@@ -50,20 +50,20 @@ Your job as the engineers are to work together to make the best possible use of 
 		- Card 2: Semi\-autonomous \(with steering wheel\), ‘good enough’ wheels, medium sized body, safety emergency button, more simple design\. 
 			- __Diamonds \(\-3\)__
 			- __Environment impact points \(\+2\)__
-			- __Electronics team performance point \(\-1\) __
-- __*Electronics and telecommunication*__:
+			- __Electronics team performance point \(\-1\)__
+- __*Electronics and telecommunication engineer*__:
 	- Performance point: __5__
 	- Diamonds: up to the players who will discuss with one another
 	- Receive __2 cards__:
 		- Card 1: Highly accurate sensors, smaller and compact electronic control unit board, completely autonomous and robots can communicate with one another, long\-lasting power source\. 
 			- __Diamonds \(\-5\)__
-			- __Software team performance point \(\-1\) __
+			- __Software team performance point \(\-1\)__
 			- __Environment impact points \(\+2\)__
 		- Card 2: Semi\-accurate sensors, larger electronic control unit board, semi\-autonomous and robots cannot communicate with one another, good enough power source but not as good as in Card 1\. 
 			- __Diamonds \(\-3\)\.__
 			- __Environment impact points \(\+2\)__
-			- __Mechanical team performance point \(\-1\) __
-- __*Materials and metallurgy*__
+			- __Mechanical team performance point \(\-1\)__
+- __*Materials and metallurgy engineer*__
 	- Performance point: __5__
 	- Diamonds: up to the players who will discuss with one another
 	- Receive __2 cards__:
