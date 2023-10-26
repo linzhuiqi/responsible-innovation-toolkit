@@ -1,5 +1,5 @@
 
-# Toolkit Idea
+# Toolkit for Practising System Thinking
 
 ## Purpose
 
