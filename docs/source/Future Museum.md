@@ -1,4 +1,6 @@
 
+---
+
 # Future Museum
 
 This is a game tool that I designed for you to help you practice responsible innovation. The game is called Future Museum, and it is a team-based game that aims to make you review your technology project from a future perspective and think about its long-term impact on society and environment.
@@ -33,17 +35,19 @@ The players are expected to go through the following steps in this game:
    - **Risk Management**: Discuss how you plan to reduce or manage these risks.
 
 4. **Interactive Evaluation**:
-   - Other teams can inquire or provide feedback from perspectives of:
+   - Other teams can inquire or provide feedback from perspectives of:  
+   (These are just some examples, you can change it to suit your topic)
      - **Technical Feasibility**: Is the tech genuinely achievable in the future?
      - **Social Acceptance**: Would people be willing and open to adopting this tech?
      - **Environmental Impact**: What are the long-term effects of this tech on the environment?
      - **Ethical Considerations**: Are there any ethical concerns associated with the deployment of this technology?
+     - ......
    - Rating criteria include:
      - **Innovation**: How novel is the tech?
      - **Feasibility**: How practical is the tech in real-world scenarios?
      - **Responsibility**: Has the team thoroughly considered potential risks and challenges?
      - **Articulation**: How clearly has the team conveyed their concepts?
-
+     - ......
 5. **Reflection and Recap**: Post-presentation, each team should consolidate feedback, contemplate on how to refine their tech or strategy to better fit future challenges and opportunities.
 
 ## Discussion
@@ -52,3 +56,6 @@ The players are expected to go through the following steps in this game:
 - All participants discuss together the inspiration and influence of this game on their technology development, and their views and suggestions on responsible innovation.
 
 ![avatar](./pics/standingTogether.jpg)
+
+---
+
